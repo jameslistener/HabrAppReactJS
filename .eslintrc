@@ -155,7 +155,7 @@
         "func-style": [2, "declaration"],
         "indent": [2, 2, { "SwitchCase": 1 }],
         "jsx-quotes": [2, "prefer-single"],
-        "linebreak-style": [2, "windows"],
+        "linebreak-style": [2, "unix"],
         "max-len": [2, 128, 4, {
             "ignoreUrls": true,
             "ignoreComments": false,

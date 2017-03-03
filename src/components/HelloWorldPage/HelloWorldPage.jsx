@@ -1,6 +1,6 @@
 import React, { PropTypes, Component } from 'react';
 
-import './App.css';
+import './HelloWorldPage.css';
 
 const propTypes = {
   initialName: PropTypes.string
